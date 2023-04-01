@@ -1,0 +1,48 @@
+# Nome da Actions:  
+name: Snake Game
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: S4nt1ag #Seu usuario
+          outputs: |
+           dist/dark.svg?palette=github-dark&color_snake=#FDB927&color_dots=#171A22,#7B2BF4,#7B3FD6,#9156F5,#9669D6
+           dist/light.svg?palette=github&color_snake=#FDB927&color_dots=#F0F0F0,#7B2BF4,#7B3FD6,#9156F5,#9669D6
+         
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
