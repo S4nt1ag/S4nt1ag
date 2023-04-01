@@ -1,7 +1,16 @@
--   🧑‍🎓 Gabriel Santiago
--   👨‍💻    Student
+<div align="center">
+   <h1>Hi there, I'm Santiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
- Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student of the Serratec residency program, my focus is on Back-end but I am currently studying Full stack
+<div align="center">
+👦 Santiago Gabriel | 💻 Full Stack Developer | 🇧🇷 
+
+
+
+Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student of the Serratec residency program, my focus is on Back-end but I am currently studying Full stack
+
+</div>
+ 
+
 
 <div>
  <div align="center">
@@ -26,3 +35,8 @@
     <a href="mailto:gabrielsantiagoneves2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank></a>
     <a href="https://www.instagram.com/_santiago_biel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
+
+
+   <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=552583&height=170&section=footer"/>
+   
+   
