@@ -37,6 +37,6 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
  </div>
 
 
-   <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=552583&height=170&section=footer"/>
+   <img width=100% src="https://github.com/S4nt1ag/S4nt1ag/blob/output/Waves.svg"/>
    
    
