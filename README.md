@@ -15,8 +15,8 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
 <div>
  <div align="center">
   <a href="https://github.com/volneineves">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&theme=synthwave&title_color=000000&icon_color=000000&text_color=FDB927&bg_color=552583&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&langs_count=7&theme=synthwave&title_color=000000&icon_color=000000&text_color=FDB927&bg_color=552583"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&theme=synthwave&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&langs_count=7&theme=synthwave&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117"/>
  </div>
 
  <div style="display: inline_block" align="center"><br>
