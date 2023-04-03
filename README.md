@@ -32,8 +32,9 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
  ##
  <div>
     <a href="https://www.linkedin.com/in/gabriel-santiago-957594193" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:gabrielsantiagoneves2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank></a>
     <a href="https://www.instagram.com/_santiago_biel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:gabrielsantiagoneves2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.hackerrank.com/gabrielsantiago7" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"target="blank"></a>
  </div>
 
 
