@@ -1,5 +1,8 @@
 <div align="center">
-   <h1>Hi there, I'm Santiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=552583&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Santiago👋;Hi+there+I'm+Santiago👋;Hola+soy+Santiago👋)](https://git.io/typing-svg)
+   
+   
 
 <div align="center">
 👦 Santiago Gabriel | 💻 Full Stack Developer | 🇧🇷 
