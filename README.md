@@ -13,14 +13,14 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
 
 </div>
  
+  
 
+ <div align="center">  
+ <a href="https://github.com/S4nt1ag">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
+</div>
 
-<div>
- <div align="center">
-  <a href="https://github.com/S4nt1ag">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&theme=synthwave&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&langs_count=7&theme=synthwave&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117"/>
- </div>
 
  <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
