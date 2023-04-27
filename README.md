@@ -17,8 +17,8 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
 
  <div align="center">  
  <a href="https://github.com/S4nt1ag">
-  <img width="49%" height="195px" src="https://readmestats.999857.xyz/api?username=S4nt1ag&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
-  <img width="41%" height="195px" src="https://readmestats.999857.xyz/api/top-langs/?username=S4nt1ag&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 
 
