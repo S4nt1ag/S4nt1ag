@@ -13,7 +13,6 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
 
 </div>
  
-  
 
  <div align="center">  
    <a href="https://github.com/S4nt1ag"> 
