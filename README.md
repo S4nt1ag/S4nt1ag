@@ -32,7 +32,6 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
     
  </div>
  
- 
  ![Snake animation ](https://github.com/S4nt1ag/S4nt1ag/blob/output/dark.svg)
  
  ##
