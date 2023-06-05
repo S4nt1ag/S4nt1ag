@@ -21,10 +21,13 @@ jobs:
         id: increment_number
         run: echo $(( ${steps.read_number.outputs.number} + 1 )) > number.txt
 
+      - name: count.svg
+        run: sed -i 's/<tspan x="167" y="22">.*<\/tspan>/<tspan x="167" y="22">'"${steps.increment_number.outputs.number}"'<\/tspan>/' count.svg
+
       - name: Commit and push changes
         run: |
           git config --global user.name "S4nt1ag"
           git config --global user.email "gabrielsantiagoneves2@gmail.com"
-          git add number.txt
+          git add number.txt cout.svg
           git commit -m "Increment number"
           git push
