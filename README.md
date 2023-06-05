@@ -36,6 +36,9 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
  
  ![Snake animation ](https://github.com/S4nt1ag/S4nt1ag/blob/output/dark.svg)
  
+ ## visit count
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BS4nt1ag%7D/count.svg" /></p>
+       
  ##
  <div>
     <a href="https://www.linkedin.com/in/gabriel-santiago-957594193" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-552583?style=for-the-badge&logo=linkedin&logoColor=yellow" target="_blank"></a>
