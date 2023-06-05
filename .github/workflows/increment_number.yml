@@ -1,0 +1,30 @@
+name: Increment Number
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  increment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Read current number
+        id: read_number
+        run: echo "::set-output name=number::$(cat number.txt)"
+
+      - name: Increment number
+        id: increment_number
+        run: echo $(( ${steps.read_number.outputs.number} + 1 )) > number.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "S4nt1ag"
+          git config --global user.email "gabrielsantiagoneves2@gmail.com"
+          git add number.txt
+          git commit -m "Increment number"
+          git push
