@@ -37,7 +37,7 @@ Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student
  ![Snake animation ](https://github.com/S4nt1ag/S4nt1ag/blob/output/dark.svg)
  
  ## visit count
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BS4nt1ag%7D/count.svg" /></p>
+ <p align="center"><img align="center" fill="#FFF" src="https://profile-counter.glitch.me/%7BS4nt1ag%7D/count.svg/" /></p>
        
  ##
  <div>
