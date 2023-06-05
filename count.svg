@@ -35,7 +35,7 @@
             <tspan x="135" y="22">0</tspan>
         </text>
 
-        <rect id="Rectangle" fill="#000000" x="160" y="0.5" width="29" height="29"></rect>
+        <rect id="Rectangle" fill="#0d1117" x="160" y="0.5" width="29" height="29"></rect>
         <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#552583">
             <tspan x="167" y="22">3</tspan>
         </text>
