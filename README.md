@@ -4,8 +4,9 @@
    
 <div align="center">
     👦 Santiago Gabriel | 💻 Full Stack Developer | 🇧🇷
-     Hello, my name is Gabriel Santiago, but you can call me Santiago, I am a student of the Serratec residency program, I am currently studying Full stack.
+   
 </div>
+     Hello, my name is Gabriel Santiago, but you can call me Santiago. I'm a computer science student 2/8 and a trainee developer. While I lean more towards front-end, I aspire to become a full-stack developer.
  
 
  <div align="center">  
@@ -19,11 +20,12 @@
     <a href="https://www.java.com/pt-BR/"> <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </a>
     <a href=https://sqlite.org/index.html><img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
     <a href=https://developer.mozilla.org/pt-BR/docs/Web/TypeScript><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><a/>
-    <a href=https://www.typescriptlang.org><img align="center" alt="TypeScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><a/>
     <a href=https://html.spec.whatwg.org><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><a/>
     <a href=https://developer.mozilla.org/pt-BR/docs/Web/CSS><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><a/>
-    <a href=https://spring.io><img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><a/>
-     <a href=https://nodejs.org/en><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><a/>
+    <a href=https://spring.io><img align="center" alt="Spring" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><a/>
+    <a href=https://nodejs.org/en><img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><a/>
+    <a href=https://www.python.org/><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <a/>
+    <a href=https://react.dev/><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <a/>
   
    
     
