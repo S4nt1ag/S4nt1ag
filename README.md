@@ -6,7 +6,7 @@
     👦 Santiago Gabriel | 💻 Full Stack Developer | 🇧🇷
    
 </div>
-     Hello, my name is Gabriel Santiago, but you can call me Santiago. I'm a computer science student 3/8 and a trainee developer. While I lean more towards front-end, I aspire to become a full-stack developer.
+     Hello, my name is Gabriel Santiago, but you can call me Santiago. I'm a computer science student 5/8 and a trainee developer. While I lean more towards front-end, I aspire to become a full-stack developer.
  
 
  <div align="center">  
