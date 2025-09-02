@@ -33,8 +33,7 @@
  
  ![Snake animation ](https://github.com/S4nt1ag/S4nt1ag/blob/output/dark.svg)
  
- ## visit count
- <p align="center"><img align="center" fill="#FFF" src="https://profile-counter.glitch.me/%7BS4nt1ag%7D/count.svg/" /></p>
+
        
  ##
  <div>
