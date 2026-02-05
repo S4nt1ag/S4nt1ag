@@ -9,11 +9,11 @@
      Hello, my name is Gabriel Santiago, but you can call me Santiago. I'm a computer science student 5/8 and a trainee developer. While I lean more towards front-end, I aspire to become a full-stack developer.
  
 
- <div align="center">  
-   <a href="https://github.com/S4nt1ag"> 
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
-      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
-</div>
+# <div align="center">  
+#   <a href="https://github.com/S4nt1ag"> 
+#      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
+#      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
+#</div>
 
 
  <div style="display: inline_block" align="center"><br>
