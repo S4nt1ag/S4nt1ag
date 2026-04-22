@@ -11,24 +11,14 @@
 Oi! Eu sou o Gabriel Santiago (pode me chamar de **Santiago**). Sou estudante de **Ciência da Computação (6/8)**. Tenho mais foco em **Front-end**, mas estou evoluindo para atuar como **Full Stack**.
 
 </div>
-
----
-
-## 🧰 Tech Stack
 <div align="center">
-  <img alt="Java" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
-  <img alt="Spring" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp;
-  <img alt="SQLite" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img alt="TypeScript" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
-  <img alt="HTML5" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  <img alt="CSS3" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  <img alt="React" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  <img alt="Node.js" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
-  <img alt="Python" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
----
-
+ <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/S4nt1ag">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+  </div>
+ </div>
 <div align="center">
 
 ## 🤝 Contato
